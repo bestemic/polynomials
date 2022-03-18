@@ -234,6 +234,7 @@ Aby uzyskać stopień wielomianu używamy metody stopien() np.:
 
 ## **6. Literatura**
 https://pl.wikipedia.org/wiki/Schemat_Hornera
+https://pl.wikipedia.org/wiki/Wielomian
 
 ----------
 <br>
